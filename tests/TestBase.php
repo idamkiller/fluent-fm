@@ -7,7 +7,7 @@ use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Middleware;
 use GuzzleHttp\Psr7\Response;
-use Hyyppa\Toxx\Contracts\JsonAndArrayOutput;
+use Idamkiller\Toxx\Contracts\JsonAndArrayOutput;
 use PHPUnit\Framework\TestCase;
 
 class TestBase extends TestCase

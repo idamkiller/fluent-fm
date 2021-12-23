@@ -21,7 +21,7 @@
     },
     "autoload":    {
         "psr-4": {
-            "Hyyppa\\FluentFM\\": "src/"
+            "Idamkiller\\FluentFM\\": "src/"
         }
     },
     "autoload-dev": {

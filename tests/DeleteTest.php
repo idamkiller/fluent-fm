@@ -4,7 +4,7 @@ namespace Test;
 
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\Response;
-use Hyyppa\FluentFM\Connection\FluentFMRepository;
+use Idamkiller\FluentFM\Connection\FluentFMRepository;
 
 class DeleteTest extends TestBase
 {

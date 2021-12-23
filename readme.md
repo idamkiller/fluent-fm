@@ -68,7 +68,7 @@ Otherwise replace `localhost` with the server address.
 ```php  
 <?php  
   
-use Hyyppa\FluentFM\Connection\FluentFMRepository;  
+use Idamkiller\FluentFM\Connection\FluentFMRepository;  
   
 $fm = new FluentFMRepository([  
     'file' => 'FilemakerFilename',  
@@ -260,7 +260,7 @@ If you run into this error try adding `'client' => [ 'verify' => false ],` to th
 ```php  
 <?php  
   
-use Hyyppa\FluentFM\Connection\FluentFMRepository;  
+use Idamkiller\FluentFM\Connection\FluentFMRepository;  
   
 $fm = new FluentFMRepository([  
     'file' => 'FilemakerFilename',  

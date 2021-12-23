@@ -5,7 +5,7 @@ namespace Test;
 use GuzzleHttp\Exception\ConnectException;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\Response;
-use Hyyppa\FluentFM\Connection\FluentFMRepository;
+use Idamkiller\FluentFM\Connection\FluentFMRepository;
 
 class FileTest extends TestBase
 {

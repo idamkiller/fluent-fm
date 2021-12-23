@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyyppa\FluentFM\Exception;
+namespace Idamkiller\FluentFM\Exception;
 
 /**
  * Class FilemakerException.

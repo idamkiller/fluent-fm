@@ -1,9 +1,9 @@
 <?php
 
-namespace Hyyppa\FluentFM\Connection;
+namespace Idamkiller\FluentFM\Connection;
 
-use Hyyppa\FluentFM\Exception\ExceptionMessages;
-use Hyyppa\FluentFM\Exception\FilemakerException;
+use Idamkiller\FluentFM\Exception\ExceptionMessages;
+use Idamkiller\FluentFM\Exception\FilemakerException;
 use Psr\Http\Message\ResponseInterface;
 
 /**

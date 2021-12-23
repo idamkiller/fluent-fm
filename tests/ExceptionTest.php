@@ -3,8 +3,8 @@
 namespace Test;
 
 use GuzzleHttp\Psr7\Response;
-use Hyyppa\FluentFM\Connection\FluentFMRepository;
-use Hyyppa\FluentFM\Exception\FilemakerException;
+use Idamkiller\FluentFM\Connection\FluentFMRepository;
+use Idamkiller\FluentFM\Exception\FilemakerException;
 
 class ExceptionTest extends TestBase
 {

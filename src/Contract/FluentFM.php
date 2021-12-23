@@ -1,8 +1,8 @@
 <?php
 
-namespace Hyyppa\FluentFM\Contract;
+namespace Idamkiller\FluentFM\Contract;
 
-use Hyyppa\FluentFM\Exception\FilemakerException;
+use Idamkiller\FluentFM\Exception\FilemakerException;
 
 /**
  * Interface FluentFM.

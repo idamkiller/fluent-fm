@@ -1,11 +1,11 @@
 <?php
 
-namespace Hyyppa\FluentFM\Connection;
+namespace Idamkiller\FluentFM\Connection;
 
 use ErrorException;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
-use Hyyppa\FluentFM\Exception\FilemakerException;
+use Idamkiller\FluentFM\Exception\FilemakerException;
 
 /**
  * Class BaseConnection.

@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyyppa\FluentFM\Connection;
+namespace Idamkiller\FluentFM\Connection;
 
 /**
  * Class Url.

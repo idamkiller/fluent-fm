@@ -1,10 +1,10 @@
 <?php
 
-namespace Hyyppa\FluentFM\Connection;
+namespace Idamkiller\FluentFM\Connection;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
-use Hyyppa\FluentFM\Contract\FluentFM;
+use Idamkiller\FluentFM\Contract\FluentFM;
 use Ramsey\Uuid\Uuid;
 
 /**

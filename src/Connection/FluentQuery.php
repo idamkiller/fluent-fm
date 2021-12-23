@@ -1,8 +1,8 @@
 <?php
 
-namespace Hyyppa\FluentFM\Connection;
+namespace Idamkiller\FluentFM\Connection;
 
-use Hyyppa\FluentFM\Contract\FluentFM;
+use Idamkiller\FluentFM\Contract\FluentFM;
 
 /**
  * Trait FluentQuery.
